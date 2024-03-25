@@ -1,1 +1,1 @@
-## Quark Ecosystem website
+## Quark Ecosystem Website
