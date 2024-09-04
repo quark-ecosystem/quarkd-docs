@@ -1,0 +1,21 @@
+.popup-demo .demo-buttons quark-button {
+  margin-right: 6px;
+  margin-top: 6px;
+}
+.popup-demo .demo-buttons {
+  margin-bottom: 24px;
+}
+.fix-content {
+  line-height: 50px;
+  display: flex;
+  justify-content: center;
+}
+.scroll-list {
+  max-height: 60vh;
+  overflow: auto;
+}
+.scroll-list div {
+  width: 240px;
+  display: flex;
+  justify-content: center;
+}
